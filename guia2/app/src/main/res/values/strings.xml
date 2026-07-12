@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Guia2-Ejercicio</string>
+    <string name="text_tvTitulo">Hola Mundo - DSM441</string>
+    <string name="text_tvPreguntaNombre">Cual es tu Nombre?</string>
+    <string name="hint_etNombre">Jhone Doe</string>
+    <string name="text_btnSaludar">Saludar</string>
+    <string name="text_btnlimpiar">Limpiar</string>
+    <string name="text_tvPreguntaApellido">¿Cual es tu apellido?</string>
+    <string name="hint_etApellido">Doe</string>
+    <string name="error_campos_vacios">Error, los campos de texto están vacíos.</string>
+    <string name="titulo_calculadora">Mi Calculadora DSM441</string>
+    <string name="hint_numero">Ingrese un número</string>
+    <string name="btn_suma">+</string>
+    <string name="btn_resta">-</string>
+    <string name="btn_multiplicacion">*</string>
+    <string name="btn_division">/</string>
+    <string name="btn_porcentaje">%</string>
+    <string name="btn_cuadrado">x²</string>
+    <string name="btn_raiz">√</string>
+    <string name="btn_limpiar_todo">Limpiar todo</string>
+    <string name="txt_resultado_inicial">0.0</string>
+    <string name="txt_historial_inicial">Historial de operaciones:</string>
+    <string name="error_num_invalido">Por favor, ingrese un número válido.</string>
+    <string name="error_division_cero">No se puede dividir entre cero.</string>
+</resources>
